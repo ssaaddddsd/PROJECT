@@ -14,7 +14,7 @@
 
 ## Example Project :  An online Grocery Store :
 
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : . 
 
 #### As a customer I should be able to do the following :
 - Browse  Products . 
